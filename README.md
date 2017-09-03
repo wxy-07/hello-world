@@ -1,2 +1,2 @@
 # hello-world
-just a test repository
+it the new branch to test the GitHub features
